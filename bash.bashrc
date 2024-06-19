@@ -1,8 +1,8 @@
 PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\[\e[1;93m\][HackShell]\[\e[31m\]\n|\n\[\e[31m\]└─[\[\e[31m\]\[\e[0;35m\]\w\[\e[31m\]]────►\[\e[1;32m\]'
 clear
-mpv /$HOME/HackShell/welcome.mp3
+mpv /$HOME/deco/welcome.mp3
 clear
-echo -e "Welcome Back \e[5m 🥷Mr.Anonymous74100147"
+echo -e "Welcome Back \e[5m Mr.Anonymous74100147"
 echo "-----------------------------------" | lolcat
 
 echo "
