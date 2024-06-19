@@ -27,7 +27,7 @@ echo "
 =====================================================
 Initializing...
 ====================================================="
-mv $PREFIX/etc/bash.bashrc $HOME/HackShell/Revert
+mv $PREFIX/etc/bash.bashrc $HOME/deco/Revert
 cp bash.bashrc $PREFIX/etc
 echo "$green
 =====================================================
