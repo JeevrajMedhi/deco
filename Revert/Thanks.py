@@ -1,4 +1,4 @@
-import time
+eimport time
 import json
 import random
 import string
@@ -18,8 +18,8 @@ def write(in_text):
 		time.sleep(0.1)
 		sys.stdout.write(char)
 		sys.stdout.flush()
-write(f"\n{gr}[+]{re} Thanks For Using Team ILLUSION's Tool...")
+write(f"\n{gr}[+]{re} Bye Bye...")
 print("\n----------------------------------------")
-print("\nSupport Us To Make More Tools")
+print("\nTata..")
 print("\n----------------------------------------")
 print('\n')
