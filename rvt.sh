@@ -4,6 +4,6 @@ cd
 cd ..
 cd usr/etc
 rm bash.bashrc
-cd $HOME/HackShell/Revert
+cd $HOME/deco/Revert
 mv bash.bashrc $PREFIX/etc
-python $HOME/HackShell/Revert/Thanks.py
+python $HOME/deco/Revert/Thanks.py
